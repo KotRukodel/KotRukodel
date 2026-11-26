@@ -18,10 +18,10 @@ I specialize in bridging Data Science, Infrastructure, and Financial Risk Manage
 ---
 
 ### 📌 Featured Public Repositories
-* **[BitViper](https://github.com)** — Python-based cryptocurrency algorithmic trading bot for Bitget Futures featuring real-time WebSockets, TradingView technical analysis, and automated risk management.
-* **[APIDocGenerator](https://github.com)** — AI-powered tool for automated generation of technical API documentation.
-* **[doc-flow-automation](https://github.com)** — Automated technical documentation review, quality checks, and approval pipeline built with OpenAI, n8n, and GitHub integration.
-* **[complete-defi-blockchain-ai](https://github.com)** — Architectural research and system diagrams exploring AI applications in DeFi and blockchain ecosystems.
+* **[BitViper](https://github.com/KotRukodel/BitViper)** — Python-based cryptocurrency algorithmic trading bot for Bitget Futures featuring real-time WebSockets, TradingView technical analysis, and automated risk management.
+* **[APIDocGenerator](https://github.com/KotRukodel/APIDocGenerator)** — AI-powered tool for automated generation of technical API documentation.
+* **[doc-flow-automation](https://github.com/KotRukodel/doc-flow-automation)** — Automated technical documentation review, quality checks, and approval pipeline built with OpenAI, n8n, and GitHub integration.
+* **[complete-defi-blockchain-ai](https://github.com/KotRukodel/complete-defi-blockchain-ai)** — Architectural research and system diagrams exploring AI applications in DeFi and blockchain ecosystems.
 
 ---
 
