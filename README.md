@@ -26,5 +26,5 @@ I specialize in bridging Data Science, Infrastructure, and Financial Risk Manage
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [://linkedin.com](https://[://linkedin.com](https://www.linkedin.com/in/oleg-o-kulakov/))
+* **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/oleg-o-kulakov/)
 * **Email:** olgokulakov@gmail.com
